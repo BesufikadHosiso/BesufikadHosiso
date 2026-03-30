@@ -14,8 +14,8 @@
 I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScript, Tailwind, Bootstrap and React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **TypeScript & Next.js**
-- 🔭 Working on: **building my own online agency while continuing to develop projects and expand my skills in web development.**
-- 🌍 Languages: **Programming languages: HTML, CSS, JavaScript; Human languages: English (fluent), Amharic (native), French (basic).**
+- 🔭 Working on: **building my own brand in social media while continuing to develop projects and expand my skills in full-stack development.**
+- 🌍 Languages: **Programming languages: HTML, CSS, JavaScript; Human languages: English (fluent), Amharic (native), German (basic).**
 - 📫 How to reach me: **besuyeboss@gmail.com**
 - ⚡ Fun fact: **Debugging code is my version of a puzzle game.**
 
@@ -44,7 +44,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 Dollar Birr Tracker is a dedicated real-time dashboard designed to bridge the information gap in the currency market. It allows users to monitor the fluctuating exchange rate between the United States Dollar (USD) and the Ethiopian Birr (ETB) instantly using real-time APIs. This project provides clarity by comparing live market trends with official banking rates within a modern, responsive interface.
 [Live Demo](https://besuhosiso.github.io/dollar-birr-tracker/)
 
-### 🚀 Technologies Used
+#### 🚀 Technologies Used
 
 - JavaScript (API integrations, dashboard logic)
 - HTML, CSS (UI design & responsive layout)
