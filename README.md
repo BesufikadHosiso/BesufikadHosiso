@@ -32,7 +32,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ![Screenshot of TODO App](todo.png)
 
-**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://besuhosiso.github.io/TODO-APP/).
+**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://BesufikadHosiso.github.io/TODO-APP/).
 
 
 # Dollar Birr Tracker
@@ -42,7 +42,7 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 
 Dollar Birr Tracker is a dedicated real-time dashboard designed to bridge the information gap in the currency market. It allows users to monitor the fluctuating exchange rate between the United States Dollar (USD) and the Ethiopian Birr (ETB) instantly using real-time APIs. This project provides clarity by comparing live market trends with official banking rates within a modern, responsive interface.
-[Live Demo](https://besuhosiso.github.io/dollar-birr-tracker/)
+[Live Demo](https://BesufikadHosiso.github.io/dollar-birr-tracker/)
 
 #### 🚀 Technologies Used
 
@@ -55,4 +55,4 @@ Dollar Birr Tracker is a dedicated real-time dashboard designed to bridge the in
 **[<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow">](https://www.linkedin.com/in/besufikad-hosiso-23a2313aa/)**
 **[<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&animation=bounce">](https://www.instagram.com/besuhosiso5/)**
 <br>
-**[Portfolio Website](https://besuhosiso.github.io/besuthedev/)**
+**[Portfolio Website](https://BesufikadHosiso.github.io/Portfolio)**
