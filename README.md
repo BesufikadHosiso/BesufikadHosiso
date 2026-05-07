@@ -13,7 +13,7 @@
 
 I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScript, Tailwind, Bootstrap and React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **TypeScript & Next.js**
+- 🌱 Currently learning: **React.js & UI/UX design**
 - 🔭 Working on: **building my own brand in social media while continuing to develop projects and expand my skills in full-stack development.**
 - 🌍 Languages: **Programming languages: HTML, CSS, JavaScript; Human languages: English (fluent), Amharic (native), German (basic).**
 - 📫 How to reach me: **besuyeboss@gmail.com**
