@@ -28,14 +28,21 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ## Featured Projects 💻
 
-### TODO APP Project
+# Adelphos High School: Community Information Platform
 
   <img alt="GIF description" src="./adelphosproject.gif">
   <br clear="left" />
   <br />
 
-**TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://BesufikadHosiso.github.io/TODO-APP/).
+This project bridges the communication gap within the Adelphos High School community. It features a real-time event calendar, school announcement system, and a custom feedback module. By integrating FormSubmit, I implemented seamless email handling directly from the frontend, demonstrating a "backendless" approach to automated student-to-admin communication.
 
+#### 🚀 Key Technical Highlights:
+
+- **Frontend:** React & Tailwind CSS for a high-performance, responsive UI.
+- **Integration:** FormSubmit API for serverless contact handling.
+- **Features:** Dynamic content management and real-time scheduling.
+
+  Explore **[Live Demo](https://adelphoshighschool.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/adelphos-high-school)**
 
 # Dollar Birr Tracker
 
