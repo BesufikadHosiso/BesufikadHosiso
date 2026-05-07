@@ -30,7 +30,9 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ### TODO APP Project
 
-![Screenshot of TODO App](todo.png)
+  <img alt="GIF description" src="./adelphosproject.gif">
+  <br clear="left" />
+  <br />
 
 **TODO APP Project** is a **simple mobile app that helps users manage everyday tasks.** I built it with **with HTML, CSS, and JavaScript.**. This project demonstrates my ability to **design clean interfaces, write organized code, and build functional features from scratch.**. You can check out the repository [here](https://BesufikadHosiso.github.io/TODO-APP/).
 
