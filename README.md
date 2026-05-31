@@ -28,11 +28,25 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScri
 
 ## Featured Projects 💻
 
+# LevelGit — Version Control Your Developer Growth
+
+![Dollar Birr Tracker Dashboard](./LevelGit.png)
+
+LevelGit is a free developer learning app and coding streak tracker built for software developers who keep starting over. It combines a daily coding habit system, a developer focus timer, a personal commit log app, growth stats, and a learning path tracker — all in one place, completely free.
+
+#### 🚀 Key Technical Highlights:
+
+- **Frontend:** React 19 & Tailwind CSS v4 for a premium, high-performance dashboard layout.
+- **State Management:** Centralized global state using `AppContext` + `useReducer` with zero-account `localStorage` persistence.
+- **Core Features:** Built-in GitHub-style contribution heatmap, deep-work countdown timer, adaptive mood tracker, and an insightful developer timeline log.
+
+Explore **[Live Demo](https://levelgit.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/LevelGit)**
+
+<br />
+
 # Adelphos High School: Community Information Platform
 
-  <img alt="GIF description" src="./adelphosproject.gif">
-  <br clear="left" />
-  <br />
+![Dollar Birr Tracker Dashboard](./Adelphos.png)
 
 This project bridges the communication gap within the Adelphos High School community. It features a real-time event calendar, school announcement system, and a custom feedback module. By integrating FormSubmit, I implemented seamless email handling directly from the frontend, demonstrating a "backendless" approach to automated student-to-admin communication.
 
@@ -42,7 +56,7 @@ This project bridges the communication gap within the Adelphos High School commu
 - **Integration:** FormSubmit API for serverless contact handling.
 - **Features:** Dynamic content management and real-time scheduling.
 
-  Explore **[Live Demo](https://adelphoshighschool.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/adelphos-high-school)**
+ Explore **[Live Demo](https://adelphoshighschool.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/adelphos-high-school)**
 
 # Dollar Birr Tracker
 
