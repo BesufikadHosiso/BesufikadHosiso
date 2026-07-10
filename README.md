@@ -30,7 +30,7 @@ This repo profile is where that gets tested publicly, not just claimed.
 **[LevelGit](https://levelgit.vercel.app)** — Developer learning-consistency tracker.  
 React 19, Tailwind CSS v4, React Router, useReducer + localStorage. My first full React app built from scratch.
 
-**[Dollar Birr Tracker](https://besuhosiso.github.io/dollar-birr-tracker/)** — Live USD→ETB currency converter with monthly insights.  
+**[Dollar Birr Tracker](https://besufikadhosiso.github.io/dollar-birr-tracker/)** — Live USD→ETB currency converter with monthly insights.  
 HTML, CSS, JavaScript, live API integration.
 
 **[Adelphos High School](https://adelphoshighschool.vercel.app)** — Real client site for a school, with enrollment info and email integration.  
