@@ -1,81 +1,50 @@
-# Hi there, I'm BESUFIKAD HOSISO! 👋
+### Hi, I'm Besufikad 👋
 
+Self-taught developer based in Ethiopia, currently executing a structured roadmap toward 
+becoming a full-stack AI engineer — and building toward a Senior Software Engineer role 
+at a top company over the next few years.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+I don't learn from tutorials alone. I ship real, deployed projects, and I'm building a public, 
+honest record of how I actually learn — including the wrong turns, not just the clean wins.
 
+---
 
-## About Me 🚀
+### 🧠 My rule
 
-I'm a passionate **Frontend Developer** with experience in **HTML, CSS, JavaScript, Tailwind, Bootstrap and React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I use AI to learn concepts faster and to review code *after* I've already solved something myself.  
+I never use AI to solve a problem before attempting it alone first — especially DSA and system design.
 
-- 🌱 Currently learning: **React.js & UI/UX design**
-- 🔭 Working on: **building my own brand in social media while continuing to develop projects and expand my skills in full-stack development.**
-- 🌍 Languages: **Programming languages: HTML, CSS, JavaScript; Human languages: English (fluent), Amharic (native), German (basic).**
-- 📫 How to reach me: **besuyeboss@gmail.com**
-- ⚡ Fun fact: **Debugging code is my version of a puzzle game.**
+This repo profile is where that gets tested publicly, not just claimed.
 
-## My Skills 🧠
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,vscode"/>
-  </a>
-</p>
+---
 
-## Featured Projects 💻
+### 🔨 Currently building
 
-# LevelGit — Version Control Your Developer Growth
+- Working through a structured roadmap: TypeScript → Next.js → AI API integration → backend fundamentals
+- Next up: a public DSA/system-design log — solved unaided, timestamps and failed attempts included
 
-![Dollar Birr Tracker Dashboard](./LevelGit.png)
+---
 
-LevelGit is a free developer learning app and coding streak tracker built for software developers who keep starting over. It combines a daily coding habit system, a developer focus timer, a personal commit log app, growth stats, and a learning path tracker — all in one place, completely free.
+### 📌 Real, deployed projects
 
-#### 🚀 Key Technical Highlights:
+**[LevelGit](link)** — Developer learning-consistency tracker.  
+React 18, Tailwind CSS v4, React Router, useReducer + localStorage. My first full React app built from scratch.
 
-- **Frontend:** React 19 & Tailwind CSS v4 for a premium, high-performance dashboard layout.
-- **State Management:** Centralized global state using `AppContext` + `useReducer` with zero-account `localStorage` persistence.
-- **Core Features:** Built-in GitHub-style contribution heatmap, deep-work countdown timer, adaptive mood tracker, and an insightful developer timeline log.
+**[Dollar Birr Tracker](link)** — Live USD→ETB currency converter with monthly insights.  
+HTML, CSS, JavaScript, live API integration.
 
-Explore **[Live Demo](https://levelgit.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/LevelGit)**
+**[Adelphos High School](link)** — Real client site for a school, with enrollment info and email integration.  
+HTML, CSS, JavaScript.
 
-<br />
+---
 
-# Adelphos High School: Community Information Platform
+### 🛠️ Stack
 
-![Dollar Birr Tracker Dashboard](./Adelphos.png)
+React · TypeScript · Next.js · Tailwind CSS · Node.js · SQLite · MongoDB
 
-This project bridges the communication gap within the Adelphos High School community. It features a real-time event calendar, school announcement system, and a custom feedback module. By integrating FormSubmit, I implemented seamless email handling directly from the frontend, demonstrating a "backendless" approach to automated student-to-admin communication.
+---
 
-#### 🚀 Key Technical Highlights:
+### 📫 Reach me
 
-- **Frontend:** React & Tailwind CSS for a high-performance, responsive UI.
-- **Integration:** FormSubmit API for serverless contact handling.
-- **Features:** Dynamic content management and real-time scheduling.
-
- Explore **[Live Demo](https://adelphoshighschool.vercel.app) | [View Source Code](https://github.com/BesufikadHosiso/adelphos-high-school)**
-
-# Dollar Birr Tracker
-
-
-![Dollar Birr Tracker Dashboard](./dollar-birr-tracker.png)
-
-
-Dollar Birr Tracker is a dedicated real-time dashboard designed to bridge the information gap in the currency market. It allows users to monitor the fluctuating exchange rate between the United States Dollar (USD) and the Ethiopian Birr (ETB) instantly using real-time APIs. This project provides clarity by comparing live market trends with official banking rates within a modern, responsive interface.
-[Live Demo](https://BesufikadHosiso.github.io/dollar-birr-tracker/)
-
-#### 🚀 Technologies Used
-
-- JavaScript (API integrations, dashboard logic)
-- HTML, CSS (UI design & responsive layout)
-- Real-time currency APIs
-
-## Get in Touch 📬
-
-**[<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow">](https://www.linkedin.com/in/besufikad-hosiso-23a2313aa/)**
-**[<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&animation=bounce">](https://www.instagram.com/besuhosiso5/)**
-<br>
-**[Portfolio Website](https://BesufikadHosiso.github.io/Portfolio)**
+LinkedIn: [https://www.linkedin.com/in/besufikad-hosiso-23a2313aa/]  
+Open to junior/entry-level frontend or full-stack roles in Addis Ababa.
