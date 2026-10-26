@@ -47,5 +47,5 @@ React · TypeScript · Next.js · Tailwind CSS · Node.js · SQLite · MongoDB
 ### 📫 Reach me
 
 LinkedIn: [https://www.linkedin.com/in/besufikad-hosiso-23a2313aa/]
-Portfolio: [https://www.besufikadhosiso.vercel.app]
+Portfolio: [https://besufikadhosiso.vercel.app]
 Open to junior/entry-level frontend or full-stack roles in Addis Ababa.
